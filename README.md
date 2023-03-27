@@ -1,6 +1,5 @@
 # Somewhere-in-Bandarban--Computer-Graphics-Project
-This project was independently developed as a component of the Computer Graphics course, with the objective of showcasing the aesthetic appeal of Bandarban, Bangladesh.
-
+As a component of my Computer Graphics course, I created a project called "Somewhere in Bandarban" independently. The purpose of the project was to visually showcase the natural beauty of Bandarban, Bangladesh. I utilized various tools and techniques in computer graphics to achieve my goal. Throughout the project, I encountered several obstacles that I successfully resolved. Overall, the experience was enjoyable, and I gained valuable knowledge in the field of computer graphics.
 
 ## Screenshots
 ![preview img](/preview.png)
