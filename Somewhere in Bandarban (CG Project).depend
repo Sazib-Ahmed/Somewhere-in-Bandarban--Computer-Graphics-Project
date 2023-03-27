@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1661209442 source:e:\8th semester\computer graphics [a]\project\somewhere in bandarban (cg project)\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<windows.h>
+	<cstdio>
+	<GL/gl.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+
+1660572213 source:e:\8th semester\computer graphics [a]\somewhere in bandarban (cg project)\somewhere in bandarban (cg project)\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<windows.h>
+	<cstdio>
+	<GL/gl.h>
+	<math.h>
+	<stdlib.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<vector>
+
+1677771669 source:h:\aiub\8th semester\computer graphics [a]\project\somewhere in bandarban (cg project)\main.cpp
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+	<windows.h>
+	<cstdio>
+	<GL/gl.h>
+	<math.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<MMSystem.h>
+	<ctime>
+	<cstdlib>
+	<vector>
+
